@@ -75,7 +75,7 @@ if selected == "Chat":
 if selected == 'Image Captioning':
 
     # streamlit page title
-    st.title("📷 Snap Narrate")
+    st.title("📷 Visual Caption")
 
     upload_image = st.file_uploader("Upload an Image...", type=['jpg, jpeg', 'png'])
 
