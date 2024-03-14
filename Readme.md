@@ -14,7 +14,8 @@ Gemini AI is a Streamlit web application that integrates with Google's Generativ
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/ShreyasKasar/gemini-ai-chatbot-demo.git
+    git clone https://github.com/sshreyy1/gemini-ai-chatbot-demo.git
+    cd gemini-ai
     ```
 
 2. Install dependencies:
@@ -37,11 +38,9 @@ Gemini AI is a Streamlit web application that integrates with Google's Generativ
 4. Run the Streamlit app:
 
     ```bash
-    streamlit run app.py
+    streamlit run main.py
     ```
 
 5. Interact with Gemini AI through the web interface.
 
-
-
-
+    Visit [here](https://ai-gemini.streamlit.app/) to access the site.
