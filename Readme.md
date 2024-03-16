@@ -1,6 +1,6 @@
 # Gemini AI
 
-Gemini AI is a Streamlit web application that integrates with Google's Generative AI models for various tasks such as chat, image captioning, text embedding, and asking questions.
+This Gemini AI Chatbot is a Streamlit web application that integrates with Google's Generative AI models for various tasks such as chat, image captioning, text embedding, and asking questions.
 
 ## Features
 
