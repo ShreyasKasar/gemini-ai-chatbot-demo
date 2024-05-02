@@ -41,6 +41,4 @@ This Gemini AI Chatbot is a Streamlit web application that integrates with Googl
     streamlit run main.py
     ```
 
-5. Interact with Gemini AI through the web interface.
-
-    Visit [here](https://ai-gemini.streamlit.app/) to access the site.
+5. Checkout [here](https://ai-gemini.streamlit.app/)
